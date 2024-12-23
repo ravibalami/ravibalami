@@ -16,6 +16,8 @@
 - 💬 Ask me about **Google Data Studio, Excel, Google sheets, Tableau, PowerBI**
 
 - 📫 How to reach me **ravibalami1@gmail.com**
+  
+- My CV at [https://ravibalami.github.io/](https://ravibalami.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
