@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ravi Balami</h1>
 <h3 align="center">A passionate Data Analyst</h3>
 <img align="right" alt="Coding" width="400" src="https://scontent.flhr14-1.fna.fbcdn.net/v/t39.30808-6/338960840_783685369847036_3892771225418391206_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=i48NjzGDPqwQ7kNvgEC5EJ0&_nc_zt=23&_nc_ht=scontent.flhr14-1.fna&_nc_gid=AUITtSxR_QOQ9KQs8ew0zsC&oh=00_AYBcfu8qxoWIzdjS4mVp56lwFN4nyg9ACgVaydKH8lTArw&oe=676F39B2")>
-
+              
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravibalami&label=Profile%20views&color=0e75b6&style=flat" alt="ravibalami" /> </p>
 
